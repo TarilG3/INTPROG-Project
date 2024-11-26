@@ -8,4 +8,4 @@ Beldad, Tristan Dave
 Andrade, James Ronel
 Parro, Jayson Carl
 
-Place the folder inside htdocs of XAMPP, then run Apache and MySql.
+Inside XAMPP directory, place the files inside a folder in htdocs named "NexTask", then run Apache and MySql.
